@@ -1,2 +1,2 @@
 # PeachyPanda
-## Link to my website- https://sameer0322.github.io/PeachyPanda/
+## Link to the frontend - https://sameer0322.github.io/PeachyPanda/
